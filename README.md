@@ -7,10 +7,15 @@ This project is intended as a minimal example to demonstrate:
 * Running the compiled binary in a container
 
 ## :open_file_folder: Project Structure
-*SimpleCPPDocker/
-      *Dockerfile
-           *src/
-                *index.cpp
+SimpleCPPDocker/
+
+├── Dockerfile         # Docker image instructions
+
+├──  src/
+
+├── index.cpp
+
+└── README.md          # Project documentation
 
 ## :page_with_curl: Source Code (index.cpp)
 The C++ program prints the current system date and time using standard libraries.
