@@ -27,7 +27,8 @@ The Dockerfile:
 * Compiles the C++ program
 * Runs the executable on container start
 
-Dockerfile Explaination
+## Dockerfile Explaination
+
 <img src="DockerFile.jpg" width="400">
 
 
