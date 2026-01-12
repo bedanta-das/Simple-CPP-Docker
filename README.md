@@ -26,6 +26,9 @@ The Dockerfile:
 * Copies the source code into the container
 * Compiles the C++ program
 * Runs the executable on container start
+
+* Dockerfile Explaination
+## Use official GCC image
 FROM gcc:13
 
 WORKDIR /app
