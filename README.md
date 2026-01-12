@@ -28,7 +28,7 @@ The Dockerfile:
 * Runs the executable on container start
 
 Dockerfile Explaination
-<img src="Result.png" width="400">
+<img src="DockerFile.jpg" width="400">
 
 
 
